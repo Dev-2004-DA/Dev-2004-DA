@@ -115,7 +115,7 @@ dev = {
 
 ## Let's connect
 
-I'm actively looking for **Data Analyst / Data Science internships** and open to **freelance data projects**.
+I'm actively looking for **Data Analyst / Data Science internships/full roles** and open to **freelance data projects**.
 
 If you have data that needs making sense of — let's talk.
 
