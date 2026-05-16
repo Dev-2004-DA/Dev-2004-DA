@@ -28,7 +28,7 @@ dev = {
     "building"   : "Deep Learning — CNNs with TensorFlow/Keras",
     "completed"  : ["ML pipelines (classification, regression, forecasting)", "ANN fundamentals"],
     "next"       : ["RNNs", "LSTMs", "NLP"],
-    "open_to"    : "Data Analyst / Data Science internships & freelance projects",
+    "open_to"    : "Data Analyst / Data Science internships, full roles & freelance projects",
     "location"   : "New Delhi, India",
 }
 ```
