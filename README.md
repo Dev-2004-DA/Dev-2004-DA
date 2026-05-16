@@ -84,12 +84,6 @@ dev = {
 
 <div align="center">
 
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-2004-DA&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75)
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-2004-DA&theme=default&hide_border=true&ring=0F6E56&fire=1D9E75&currStreakLabel=0F6E56" height="170"/>
 
 </div>
