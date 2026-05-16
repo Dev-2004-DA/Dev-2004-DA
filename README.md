@@ -84,9 +84,7 @@ dev = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-2004-DA&show_icons=true&hide_border=true&count_private=true&title_color=0F6E56&icon_color=1D9E75&text_color=444441" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-2004-DA&layout=compact&hide_border=true&title_color=0F6E56&text_color=444441&langs_count=6" height="170"/>
+![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-2004-DA&show_icons=true&theme=default&hide_border=true&title_color=0F6E56&icon_color=1D9E75)
 
 </div>
 
