@@ -7,7 +7,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--soni-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev--soni/)
-[![Gmail](https://img.shields.io/badge/Email-dev.sagar.soni.stats@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devsagar12380@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-devsagar12380@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devsagar12380@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Dev--2004--DA-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dev-2004-DA)
 [![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://t-i-m-e-series-forecasting.streamlit.app)
 [![Profile Views](https://komarev.com/ghpvc/?username=Dev-2004-DA&color=0F6E56&style=flat-square&label=profile+views)](https://github.com/Dev-2004-DA)
