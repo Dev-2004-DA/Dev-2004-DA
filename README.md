@@ -11,7 +11,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Dev--2004--DA-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dev-2004-DA)
 [![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://t-i-m-e-series-forecasting.streamlit.app)
 [![Full CV](https://img.shields.io/badge/Full%20CV-View%20%2F%20Download-0F6E56?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/Dev-2004-DA/Dev-2004-DA/raw/main/Dev_Soni_Detailed_CV.pdf)
-[![Profile Views](https://komarev.com/ghpvc/?username=Dev-2004-DA&color=0F6E56&style=flat-square&label=profile+views)](https://github.com/Dev-2004-DA)
 
 
 </div>
