@@ -124,5 +124,5 @@ If you have data that needs making sense of — let's talk.
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.sagar.soni.stats@gmail.com)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F6E56&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=80&section=footer" width="100%"/>
 </div>
