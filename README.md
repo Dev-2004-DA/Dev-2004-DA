@@ -26,8 +26,8 @@ My work sits at the intersection of **statistical rigour and practical engineeri
 ```python
 dev = {
     "currently"  : "M.Sc. Statistics @ Ramjas College, University of Delhi",
-    "building"   : "Deep Learning — CNNs with TensorFlow/Keras",
-    "completed"  : ["ML pipelines (classification, regression, forecasting)", "ANN fundamentals"],
+    "building"   : "Deep Learning — CNN to Transfer Learning, complete (3-model comparison)",
+    "completed"  : ["ML pipelines (classification, regression, forecasting)", "ANN fundamentals", "CNN + Transfer Learning (MobileNetV2, Xception)"],
     "next"       : ["RNNs", "LSTMs", "NLP"],
     "open_to"    : "Data Analyst / Data Science internships, full roles & freelance projects",
     "location"   : "New Delhi, India",
@@ -62,6 +62,12 @@ dev = {
 ---
 
 ## Projects
+
+### Deep Learning
+
+| Project | Description | Stack | Result | Live |
+|---|---|---|---|---|
+| [Intel Image Classification](https://github.com/Dev-2004-DA/Intel-Image-Classification) | Progressive CNN comparison — scratch CNN → MobileNetV2 → Xception on 6-class scene classification (buildings, forest, glacier, mountain, sea, street). Full error analysis incl. confusion matrices, per-class F1, confidence calibration, and agreement analysis on 7,300+ unlabelled images | TensorFlow · Keras · Transfer Learning · Keras Tuner | Scratch 77.8% → MobileNetV2 90.57% → Xception 91.73% | — |
 
 ### ML & Forecasting
 
@@ -101,8 +107,8 @@ dev = {
 
 - ✅ ML Pipelines — regression, classification, forecasting, model evaluation
 - ✅ ANN — architecture, training, TensorFlow/Keras fundamentals
-- 🔄 CNN — image classification (in progress)
-- 📋 RNN / LSTM — next
+- ✅ CNN — image classification, scratch to Transfer Learning (MobileNetV2, Xception)
+- 🔄 RNN / LSTM — next
 - 📋 NLP — next
 
 ---
