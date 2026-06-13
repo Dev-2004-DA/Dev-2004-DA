@@ -19,14 +19,16 @@
 
 ## About me
 
-I'm a statistics student at **University of Delhi** (CGPA 8.36) who builds end-to-end data products — from raw messy datasets to deployed ML applications that actually run in production.
+I'm a statistics student at **University of Delhi** (CGPA 8.36) who builds end-to-end data products — from raw messy datasets to deployed ML applications and deep learning models that actually run in production.
 
 My work sits at the intersection of **statistical rigour and practical engineering**. I don't just fit models — I diagnose why they fail, fix them, and ship them.
+
+Most recently, I took a CNN project from scratch (77.8%) through progressive Transfer Learning (MobileNetV2 → Xception, 91.73%), with full error analysis, confidence calibration, and a debugged data pipeline along the way. Now moving into RNNs, LSTMs, and NLP.
 
 ```python
 dev = {
     "currently"  : "M.Sc. Statistics @ Ramjas College, University of Delhi",
-    "building"   : "Deep Learning — CNN to Transfer Learning, complete (3-model comparison)",
+    "building"   : "RNN / LSTM fundamentals — next step after CNN + Transfer Learning",
     "completed"  : ["ML pipelines (classification, regression, forecasting)", "ANN fundamentals", "CNN + Transfer Learning (MobileNetV2, Xception)"],
     "next"       : ["RNNs", "LSTMs", "NLP"],
     "open_to"    : "Data Analyst / Data Science internships, full roles & freelance projects",
