@@ -75,6 +75,8 @@ dev = {
 
 | Project | Description | Stack | Result | Live |
 |---|---|---|---|---|
+| [Explainable Credit Risk Analytics](https://github.com/Dev-2004-DA/credit-risk-explainable-ml) | Enterprise-scale credit risk analytics platform on **466K+ Lending Club loans**, integrating **Probability of Default (PD)** prediction, **Time-to-Default (TTD)** estimation using **Survival Analysis**, **SHAP explainability**, statistical feature engineering, cost-sensitive learning, and a deployed Streamlit application for interactive borrower risk assessment. | Gradient Boosting · Logistic Regression · XGBoost · SHAP · Lifelines · Streamlit · Scikit-learn | **466K loans · 5 ML models · 2 Survival models · ROC-AUC 70.06% · C-index ≈0.67** | [▶ App](https://credit-risk-survival-004.streamlit.app/) |
+
 | [Google Stock Forecasting](https://github.com/Dev-2004-DA/google-stock-forecasting) | End-to-end time series pipeline. Diagnosed regime shift (R²=−10), recovered to R²=0.85 via return-based feature engineering | SARIMAX · XGBoost · Voting Regressor | RMSE=22.87, MAPE=6.70%, Test R²=0.85 | [▶ App](https://t-i-m-e-series-forecasting.streamlit.app) |
 | [Cardiovascular Disease Prediction](https://github.com/Dev-2004-DA/cardiovascular-disease-prediction) | Benchmarked 10+ classifiers on 70K patient records. Threshold-tuned recall 69% → 85% | Random Forest · ROC-AUC · Scikit-learn | CV Acc ~76%, Recall 85% | [▶ App](https://cardiovasculardiseasesprediction-equ3p2xhkmg65ejh7tesis.streamlit.app) |
 | [Medical Insurance Cost Prediction](https://github.com/Dev-2004-DA/medical-insurance-cost-prediction) | Discovered bimodal cost distribution (Smokers vs Non-Smokers). Smoking = 70% feature importance | Random Forest · GridSearchCV · ElasticNet | Test R²=0.86 | — |
