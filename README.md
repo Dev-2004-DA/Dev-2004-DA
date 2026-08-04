@@ -19,20 +19,42 @@
 
 ## About me
 
-I'm a statistics student at **University of Delhi** (CGPA 8.36) who builds end-to-end data products — from raw messy datasets to deployed ML applications and deep learning models that actually run in production.
+I'm a Statistics graduate student at the **University of Delhi** (CGPA **8.36**) who builds end-to-end data science solutions—from raw data engineering and statistical analysis to machine learning, deep learning, explainable AI, and deployment.
 
-My work sits at the intersection of **statistical rigour and practical engineering**. I don't just fit models — I diagnose why they fail, fix them, and ship them.
+My work combines **statistical rigour with practical machine learning**, with projects spanning **credit risk analytics, time series forecasting, computer vision, and predictive modelling**. I enjoy understanding why models behave the way they do through careful feature engineering, statistical validation, model evaluation, and explainability rather than treating them as black boxes.
 
-Most recently, I took a CNN project from scratch (77.8%) through progressive Transfer Learning (MobileNetV2 → Xception, 91.73%), with full error analysis, confidence calibration, and a debugged data pipeline along the way. Now moving into RNNs, LSTMs, and NLP.
+Recently, I developed an **Explainable Credit Risk Analytics** platform on **466K+ loan records**, integrating **Probability of Default (PD)** prediction, **Time-to-Default (TTD)** modelling using **Survival Analysis**, **SHAP explainability**, and an interactive **Streamlit** application. Alongside this, I have built hybrid forecasting systems and deep learning models using **Transfer Learning** for computer vision.
 
 ```python
 dev = {
-    "currently"  : "M.Sc. Statistics @ Ramjas College, University of Delhi",
-    "building"   : "RNN / LSTM fundamentals — next step after CNN + Transfer Learning",
-    "completed"  : ["ML pipelines (classification, regression, forecasting)", "ANN fundamentals", "CNN + Transfer Learning (MobileNetV2, Xception)"],
-    "next"       : ["RNNs", "LSTMs", "NLP"],
-    "open_to"    : "Data Analyst / Data Science internships, full roles & freelance projects",
-    "location"   : "New Delhi, India",
+    "currently": "M.Sc. Statistics @ Ramjas College, University of Delhi",
+
+    "specializing_in": [
+        "Machine Learning",
+        "Statistical Modeling",
+        "Deep Learning",
+        "Credit Risk Analytics"
+    ],
+
+    "completed": [
+        "Machine Learning",
+        "Time Series Forecasting",
+        "Deep Learning (ANN, CNN, Transfer Learning)",
+        "Natural Language Processing",
+        "Transformer Architecture",
+        "Explainable AI (SHAP)",
+        "Survival Analysis"
+    ],
+
+    "currently_learning": [
+        "Large Language Models (LLMs)",
+        "Retrieval-Augmented Generation (RAG)",
+        "AI Agents"
+    ],
+
+    "open_to": "Data Analyst / Data Scientist / ML Engineer internships & full-time roles",
+
+    "location": "New Delhi, India",
 }
 ```
 
