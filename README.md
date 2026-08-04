@@ -29,21 +29,19 @@ Recently, I developed an **Explainable Credit Risk Analytics** platform on **466
 dev = {
     "currently": "M.Sc. Statistics @ Ramjas College, University of Delhi",
 
-    "specializing_in": [
+    "expertise": [
         "Machine Learning",
         "Statistical Modeling",
         "Deep Learning",
-        "Credit Risk Analytics"
+        "Time Series Forecasting",
+        "Survival Analysis",
+        "Explainable AI (SHAP)"
     ],
 
-    "completed": [
-        "Machine Learning",
+    "recent_projects": [
+        "Credit Risk Analytics",
         "Time Series Forecasting",
-        "Deep Learning (ANN, CNN, Transfer Learning)",
-        "Natural Language Processing",
-        "Transformer Architecture",
-        "Explainable AI (SHAP)",
-        "Survival Analysis"
+        "Computer Vision"
     ],
 
     "currently_learning": [
