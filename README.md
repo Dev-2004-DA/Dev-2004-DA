@@ -11,18 +11,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Dev--2004--DA-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Dev-2004-DA)
 [![Full CV](https://img.shields.io/badge/Full%20CV-View%20%2F%20Download-0F6E56?style=flat-square&logo=googledrive&logoColor=white)](https://github.com/Dev-2004-DA/Dev-2004-DA/raw/main/Dev_Soni_Detailed_CV.pdf)
 
-
 </div>
 
 ---
 
 ## About me
 
-I'm a Statistics graduate student at the **University of Delhi** (CGPA **8.36**) who builds end-to-end data science solutions—from raw data engineering and statistical analysis to machine learning, deep learning, explainable AI, and deployment.
+I'm a Statistics graduate student at the **University of Delhi** (CGPA **8.36**) who builds end-to-end data science solutions—from raw data engineering and statistical analysis to machine learning, deep learning, NLP, explainable AI, and deployment.
 
-My work combines **statistical rigour with practical machine learning**, with projects spanning **credit risk analytics, time series forecasting, computer vision, and predictive modelling**. I enjoy understanding why models behave the way they do through careful feature engineering, statistical validation, model evaluation, and explainability rather than treating them as black boxes.
+My work combines **statistical rigour with practical machine learning**, with projects spanning **credit risk analytics, time series forecasting, computer vision, NLP, and predictive modelling**. I enjoy understanding why models behave the way they do through careful feature engineering, statistical validation, model evaluation, and explainability rather than treating them as black boxes.
 
-Recently, I developed an **Explainable Credit Risk Analytics** platform on **466K+ loan records**, integrating **Probability of Default (PD)** prediction, **Time-to-Default (TTD)** modelling using **Survival Analysis**, **SHAP explainability**, and an interactive **Streamlit** application. Alongside this, I have built hybrid forecasting systems and deep learning models using **Transfer Learning** for computer vision.
+Recently, I developed an **Explainable Credit Risk Analytics** platform on **466K+ loan records**, integrating **Probability of Default (PD)** prediction, **Time-to-Default (TTD)** modelling using **Survival Analysis**, **SHAP explainability**, and an interactive **Streamlit** application. Alongside this, I built a comparative **NLP sentiment classification study** (RNN → LSTM → GRU → Transformer) on financial text, and hybrid forecasting systems and deep learning models using **Transfer Learning** for computer vision.
 
 ```python
 dev = {
@@ -32,12 +31,14 @@ dev = {
         "Machine Learning",
         "Statistical Modeling",
         "Deep Learning",
+        "NLP & Sequence Modeling",
         "Time Series Forecasting",
         "Survival Analysis",
         "Explainable AI (SHAP)"
     ],
 
     "recent_projects": [
+        "Financial Sentiment Classification (RNN/LSTM/GRU/Transformer)",
         "Credit Risk Analytics",
         "Time Series Forecasting",
         "Computer Vision"
@@ -84,10 +85,11 @@ dev = {
 
 ## Projects
 
-### Deep Learning
+### NLP & Deep Learning
 
 | Project | Description | Stack | Result | Live |
 |---|---|---|---|---|
+| [Financial Sentiment Classification](https://github.com/Dev-2004-DA/financial-sentiment-classification) | Comparative study of 4 architectures (RNN → LSTM → GRU → Transformer Encoder) for 3-class sentiment classification on 14K+ financial news headlines & tweets. Includes Word2Vec vs FastText embedding ablation, class-imbalance-aware evaluation (macro F1/AUC), and a documented cuDNN masking bug fix | TensorFlow · Keras · keras_hub · KerasTuner · gensim · Scikit-learn | Transformer: **81% acc, Macro F1 0.75**, trained ~7x faster than LSTM/GRU | — |
 | [Intel Image Classification](https://github.com/Dev-2004-DA/Intel-Image-Classification) | Progressive CNN comparison — scratch CNN → MobileNetV2 → Xception on 6-class scene classification (buildings, forest, glacier, mountain, sea, street). Full error analysis incl. confusion matrices, per-class F1, confidence calibration, and agreement analysis on 7,300+ unlabelled images | TensorFlow · Keras · Transfer Learning · Keras Tuner | Scratch 77.8% → MobileNetV2 90.57% → Xception 91.73% | — |
 
 ### ML & Forecasting
@@ -130,8 +132,9 @@ dev = {
 - ✅ ML Pipelines — regression, classification, forecasting, model evaluation
 - ✅ ANN — architecture, training, TensorFlow/Keras fundamentals
 - ✅ CNN — image classification, scratch to Transfer Learning (MobileNetV2, Xception)
-- 🔄 RNN / LSTM — next
-- 📋 NLP — next
+- ✅ RNN / LSTM / GRU / Transformers — sequence modeling, self-attention, NLP
+- 🔄 Large Language Models (LLMs) — next
+- 📋 Retrieval-Augmented Generation (RAG) & AI Agents — next
 
 ---
 
